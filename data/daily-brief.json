@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T12:28:24.144268Z",
+  "generated_at": "2026-09-07T18:15:01.501305Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8352,
+        "recency": 0.7683,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
@@ -213,21 +213,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7701,
+        "recency": 0.7085,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-06T18:23:14Z",
       "latest_at": "2026-09-06T18:23:14Z",
@@ -247,7 +246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
@@ -295,15 +294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8778,
+        "recency": 0.8075,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,7 +327,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
@@ -376,15 +375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -410,7 +409,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
@@ -458,15 +457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7232,
+      "importance": 0.7232,
+      "importance_score": 0.7232,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8368,
+        "recency": 0.7698,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -491,7 +490,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
@@ -539,15 +538,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -573,7 +572,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
@@ -621,15 +620,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -655,7 +654,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
@@ -703,15 +702,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -737,7 +736,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
@@ -785,15 +784,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -819,7 +818,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
@@ -867,15 +866,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -901,7 +900,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
+      }
+    },
+    {
+      "story_id": "story_89772b9cda52",
+      "title": "基于AMD GPU的vLLM中的推测性解码",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "primary_url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "source": "vllm.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+          "title": "基于AMD GPU的vLLM中的推测性解码",
+          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+          "title_en": null,
+          "title_original": "基于AMD GPU的vLLM中的推测性解码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "vllm.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T17:40:59.747000Z"
+        },
+        {
+          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
+          "title": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": null,
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49596054",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T12:12:38.247000Z"
+        },
+        {
+          "id": "efbf4f29b89ea3129536832c437cd163003d740e",
+          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T09:26:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "vllm.ai"
+      ],
+      "items": [
+        {
+          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+          "title": "基于AMD GPU的vLLM中的推测性解码",
+          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+          "title_en": null,
+          "title_original": "基于AMD GPU的vLLM中的推测性解码",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "vllm.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T17:40:59.747000Z"
+        },
+        {
+          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
+          "title": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": null,
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49596054",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T12:12:38.247000Z"
+        },
+        {
+          "id": "efbf4f29b89ea3129536832c437cd163003d740e",
+          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-07T09:26:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5693,
+      "importance": 0.5693,
+      "importance_score": 0.5693,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9918,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T09:26:41Z",
+      "latest_at": "2026-09-07T17:40:59.747000Z",
+      "primary_item": {
+        "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+        "title": "基于AMD GPU的vLLM中的推测性解码",
+        "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+        "title_en": null,
+        "title_original": "基于AMD GPU的vLLM中的推测性解码",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+        "source": "vllm.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
@@ -978,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5806,
-      "importance": 0.5806,
-      "importance_score": 0.5806,
+      "score": 0.5686,
+      "importance": 0.5686,
+      "importance_score": 0.5686,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8347,
+        "recency": 0.7679,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1011,7 +1149,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
@@ -1059,15 +1197,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1093,109 +1231,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
-      "story_id": "story_89772b9cda52",
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "url": "https://news.ycombinator.com/item?id=49596054",
-      "primary_url": "https://news.ycombinator.com/item?id=49596054",
+      "story_id": "story_545843532362",
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://news.ycombinator.com/item?id=49593842",
+      "primary_url": "https://news.ycombinator.com/item?id=49593842",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-          "title": "Speculative Decoding in vLLM on AMD GPUs",
+          "id": "105a989db729c5378cd3770bbf134901f6685eee",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
           "title_zh": null,
-          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
-          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49596054",
+          "url": "https://news.ycombinator.com/item?id=49593842",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-07T12:12:38.247000Z"
+          "published_at": "2026-09-07T06:05:42.885000Z"
         },
         {
-          "id": "efbf4f29b89ea3129536832c437cd163003d740e",
-          "title": "Speculative Decoding in vLLM on AMD GPUs",
+          "id": "84c0a76d4b1ef00f53132a47f74648ec1f9cef5f",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
           "title_zh": null,
-          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
-          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T09:26:41Z"
+          "url": "https://github.com/trailofbits/coop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T04:18:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-          "title": "Speculative Decoding in vLLM on AMD GPUs",
+          "id": "105a989db729c5378cd3770bbf134901f6685eee",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
           "title_zh": null,
-          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
-          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49596054",
+          "url": "https://news.ycombinator.com/item?id=49593842",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-07T12:12:38.247000Z"
+          "published_at": "2026-09-07T06:05:42.885000Z"
         },
         {
-          "id": "efbf4f29b89ea3129536832c437cd163003d740e",
-          "title": "Speculative Decoding in vLLM on AMD GPUs",
+          "id": "84c0a76d4b1ef00f53132a47f74648ec1f9cef5f",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
           "title_zh": null,
-          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
-          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T09:26:41Z"
+          "url": "https://github.com/trailofbits/coop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T04:18:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9962,
+        "recency": 0.839,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-07T09:26:41Z",
-      "latest_at": "2026-09-07T12:12:38.247000Z",
+      "earliest_at": "2026-09-07T04:18:28Z",
+      "latest_at": "2026-09-07T06:05:42.885000Z",
       "primary_item": {
-        "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-        "title": "Speculative Decoding in vLLM on AMD GPUs",
+        "id": "105a989db729c5378cd3770bbf134901f6685eee",
+        "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
         "title_zh": null,
-        "title_en": "Speculative Decoding in vLLM on AMD GPUs",
-        "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+        "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49596054",
+        "url": "https://news.ycombinator.com/item?id=49593842",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1203,7 +1341,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
@@ -1251,15 +1389,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1285,218 +1423,79 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     },
     {
-      "story_id": "story_51d2e18008f8",
-      "title": "人工智能关机——保持人性",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "primary_url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "source": "keepitfree.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_b94cfff5e377",
+      "title": "I refused to train the AI that could replace me",
+      "url": "https://news.ycombinator.com/item?id=49593959",
+      "primary_url": "https://news.ycombinator.com/item?id=49593959",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-          "title": "人工智能关机——保持人性",
-          "title_zh": "人工智能关机——保持人性",
-          "title_en": null,
-          "title_original": "人工智能关机——保持人性",
+          "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
+          "title": "I refused to train the AI that could replace me",
+          "title_zh": null,
+          "title_en": "I refused to train the AI that could replace me",
+          "title_original": "I refused to train the AI that could replace me",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "keepitfree.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T15:26:17.429000Z"
+          "url": "https://news.ycombinator.com/item?id=49593959",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:05:42.885000Z"
         },
         {
-          "id": "b867389e6ad7c4eb66c47b053eb87400f0937888",
-          "title": "人工智能关机——保持人性 / A/I shuts down",
-          "title_zh": "人工智能关机——保持人性",
-          "title_en": "A/I shuts down",
-          "title_original": "A/I shuts down",
+          "id": "1f9045f9ada848db2f897ea8f25c60e34021d8a9",
+          "title": "I refused to train the AI that could replace me",
+          "title_zh": null,
+          "title_en": "I refused to train the AI that could replace me",
+          "title_original": "I refused to train the AI that could replace me",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
+          "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-06T14:34:34Z"
-        },
-        {
-          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
-          "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
-          "title_zh": "人工智能关机——保持人性",
-          "title_en": "A/I shuts down – Stay human",
-          "title_original": "A/I shuts down – Stay human",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "keepitfree.ai"
-      ],
-      "items": [
-        {
-          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-          "title": "人工智能关机——保持人性",
-          "title_zh": "人工智能关机——保持人性",
-          "title_en": null,
-          "title_original": "人工智能关机——保持人性",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "keepitfree.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T15:26:17.429000Z"
-        },
-        {
-          "id": "b867389e6ad7c4eb66c47b053eb87400f0937888",
-          "title": "人工智能关机——保持人性 / A/I shuts down",
-          "title_zh": "人工智能关机——保持人性",
-          "title_en": "A/I shuts down",
-          "title_original": "A/I shuts down",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T14:34:34Z"
-        },
-        {
-          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
-          "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
-          "title_zh": "人工智能关机——保持人性",
-          "title_en": "A/I shuts down – Stay human",
-          "title_original": "A/I shuts down – Stay human",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.738,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T14:34:34Z",
-      "latest_at": "2026-09-06T15:26:17.429000Z",
-      "primary_item": {
-        "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-        "title": "人工智能关机——保持人性",
-        "title_zh": "人工智能关机——保持人性",
-        "title_en": null,
-        "title_original": "人工智能关机——保持人性",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-        "source": "keepitfree.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
-      }
-    },
-    {
-      "story_id": "story_cc153614bc7c",
-      "title": "研究加速：OpenAI内部视角",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "primary_url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
-          "title": "研究加速：OpenAI内部视角",
-          "title_zh": "研究加速：OpenAI内部视角",
-          "title_en": null,
-          "title_original": "研究加速：OpenAI内部视角",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T00:17:54.906000Z"
-        },
-        {
-          "id": "16cd7c2c31702130f91ae681c5f0361456eb1505",
-          "title": "研究加速：OpenAI内部视角 / Research acceleration: The view inside OpenAI",
-          "title_zh": "研究加速：OpenAI内部视角",
-          "title_en": "Research acceleration: The view inside OpenAI",
-          "title_original": "Research acceleration: The view inside OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T15:08:44Z"
+          "published_at": "2026-09-07T04:38:22Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "openai.com"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
-          "title": "研究加速：OpenAI内部视角",
-          "title_zh": "研究加速：OpenAI内部视角",
-          "title_en": null,
-          "title_original": "研究加速：OpenAI内部视角",
+          "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
+          "title": "I refused to train the AI that could replace me",
+          "title_zh": null,
+          "title_en": "I refused to train the AI that could replace me",
+          "title_original": "I refused to train the AI that could replace me",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T00:17:54.906000Z"
+          "url": "https://news.ycombinator.com/item?id=49593959",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:05:42.885000Z"
         },
         {
-          "id": "16cd7c2c31702130f91ae681c5f0361456eb1505",
-          "title": "研究加速：OpenAI内部视角 / Research acceleration: The view inside OpenAI",
-          "title_zh": "研究加速：OpenAI内部视角",
-          "title_en": "Research acceleration: The view inside OpenAI",
-          "title_original": "Research acceleration: The view inside OpenAI",
+          "id": "1f9045f9ada848db2f897ea8f25c60e34021d8a9",
+          "title": "I refused to train the AI that could replace me",
+          "title_zh": null,
+          "title_en": "I refused to train the AI that could replace me",
+          "title_original": "I refused to train the AI that could replace me",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T15:08:44Z"
+          "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T04:38:22Z"
         }
       ],
       "item_count": 2,
@@ -1509,354 +1508,24 @@
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8388,
+        "recency": 0.839,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T15:08:44Z",
-      "latest_at": "2026-09-07T00:17:54.906000Z",
-      "primary_item": {
-        "id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
-        "title": "研究加速：OpenAI内部视角",
-        "title_zh": "研究加速：OpenAI内部视角",
-        "title_en": null,
-        "title_original": "研究加速：OpenAI内部视角",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "source": "openai.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
-      }
-    },
-    {
-      "story_id": "story_2e625774c329",
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "primary_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
-          "title": "How we monitor internal coding agents for misalignment",
-          "title_zh": null,
-          "title_en": "How we monitor internal coding agents for misalignment",
-          "title_original": "How we monitor internal coding agents for misalignment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
-          "title": "OpenAI: We monitor internal coding agents for misalignment",
-          "title_zh": null,
-          "title_en": "OpenAI: We monitor internal coding agents for misalignment",
-          "title_original": "OpenAI: We monitor internal coding agents for misalignment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T16:37:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
-          "title": "How we monitor internal coding agents for misalignment",
-          "title_zh": null,
-          "title_en": "How we monitor internal coding agents for misalignment",
-          "title_original": "How we monitor internal coding agents for misalignment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:37:55Z"
-        },
-        {
-          "id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
-          "title": "OpenAI: We monitor internal coding agents for misalignment",
-          "title_zh": null,
-          "title_en": "OpenAI: We monitor internal coding agents for misalignment",
-          "title_original": "OpenAI: We monitor internal coding agents for misalignment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T16:37:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.501,
-      "importance": 0.501,
-      "importance_score": 0.501,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7509,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T16:37:55Z",
-      "latest_at": "2026-09-06T16:37:55Z",
-      "primary_item": {
-        "id": "dc4a99e87eea84ee409b6b1a2e7cf956287554de",
-        "title": "How we monitor internal coding agents for misalignment",
-        "title_zh": null,
-        "title_en": "How we monitor internal coding agents for misalignment",
-        "title_original": "How we monitor internal coding agents for misalignment",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
-      }
-    },
-    {
-      "story_id": "story_392c698c960b",
-      "title": "我对人工智能的看法",
-      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "primary_url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "source": "beza1e1.tuxen.de",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-          "title": "我对人工智能的看法",
-          "title_zh": "我对人工智能的看法",
-          "title_en": null,
-          "title_original": "我对人工智能的看法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "beza1e1.tuxen.de",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T16:12:11.446000Z"
-        },
-        {
-          "id": "2702175e96021b1ab424f51a5850c37637c74000",
-          "title": "我对人工智能的看法 / How I feel about AI",
-          "title_zh": "我对人工智能的看法",
-          "title_en": "How I feel about AI",
-          "title_original": "How I feel about AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T15:00:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "beza1e1.tuxen.de"
-      ],
-      "items": [
-        {
-          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-          "title": "我对人工智能的看法",
-          "title_zh": "我对人工智能的看法",
-          "title_en": null,
-          "title_original": "我对人工智能的看法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "beza1e1.tuxen.de",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T16:12:11.446000Z"
-        },
-        {
-          "id": "2702175e96021b1ab424f51a5850c37637c74000",
-          "title": "我对人工智能的看法 / How I feel about AI",
-          "title_zh": "我对人工智能的看法",
-          "title_en": "How I feel about AI",
-          "title_original": "How I feel about AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T15:00:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5001,
-      "importance": 0.5001,
-      "importance_score": 0.5001,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7462,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T15:00:19Z",
-      "latest_at": "2026-09-06T16:12:11.446000Z",
-      "primary_item": {
-        "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-        "title": "我对人工智能的看法",
-        "title_zh": "我对人工智能的看法",
-        "title_en": null,
-        "title_original": "我对人工智能的看法",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-        "source": "beza1e1.tuxen.de",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
-      }
-    },
-    {
-      "story_id": "story_545843532362",
-      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-      "url": "https://news.ycombinator.com/item?id=49593842",
-      "primary_url": "https://news.ycombinator.com/item?id=49593842",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "105a989db729c5378cd3770bbf134901f6685eee",
-          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_zh": null,
-          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49593842",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T06:05:42.885000Z"
-        },
-        {
-          "id": "2ab7da731dc02356e67415a50029b7e0b7b2c372",
-          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_zh": null,
-          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/trailofbits/coop",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T04:18:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "105a989db729c5378cd3770bbf134901f6685eee",
-          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_zh": null,
-          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49593842",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T06:05:42.885000Z"
-        },
-        {
-          "id": "2ab7da731dc02356e67415a50029b7e0b7b2c372",
-          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_zh": null,
-          "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/trailofbits/coop",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T04:18:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.912,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T04:18:28Z",
+      "earliest_at": "2026-09-07T04:38:22Z",
       "latest_at": "2026-09-07T06:05:42.885000Z",
       "primary_item": {
-        "id": "105a989db729c5378cd3770bbf134901f6685eee",
-        "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
+        "title": "I refused to train the AI that could replace me",
         "title_zh": null,
-        "title_en": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-        "title_original": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "title_en": "I refused to train the AI that could replace me",
+        "title_original": "I refused to train the AI that could replace me",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49593842",
+        "url": "https://news.ycombinator.com/item?id=49593959",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1864,7 +1533,281 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T12:50:08.250781Z"
+        "scored_at": "2026-09-07T18:42:27.361085Z"
+      }
+    },
+    {
+      "story_id": "story_875d6212892b",
+      "title": "快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”",
+      "url": "https://www.aibase.com/news/30877",
+      "primary_url": "https://www.aibase.com/news/30877",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7ab8965512c5797f4cf40cce893bd7f8339cf197",
+          "title": "快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”",
+          "title_zh": "快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”",
+          "title_en": null,
+          "title_original": "快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30877",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T12:28:24.144268Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7ab8965512c5797f4cf40cce893bd7f8339cf197",
+          "title": "快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”",
+          "title_zh": "快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”",
+          "title_en": null,
+          "title_original": "快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30877",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T12:28:24.144268Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.92,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T12:28:24.144268Z",
+      "latest_at": "2026-09-07T12:28:24.144268Z",
+      "primary_item": {
+        "id": "7ab8965512c5797f4cf40cce893bd7f8339cf197",
+        "title": "快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”",
+        "title_zh": "快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”",
+        "title_en": null,
+        "title_original": "快看漫画AI产品Livo开启内测 构建多角色自运转“仿生世界”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30877",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T18:42:27.361085Z"
+      }
+    },
+    {
+      "story_id": "story_f5c486b1ef2a",
+      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+      "url": "https://news.ycombinator.com/item?id=49592366",
+      "primary_url": "https://news.ycombinator.com/item?id=49592366",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
+          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_zh": null,
+          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49592366",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:05:42.885000Z"
+        },
+        {
+          "id": "d7279c0d493e7388f747a5b387aace3de8ad3184",
+          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_zh": null,
+          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Staatsgeheim/MathKernel",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T00:21:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
+          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_zh": null,
+          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49592366",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:05:42.885000Z"
+        },
+        {
+          "id": "d7279c0d493e7388f747a5b387aace3de8ad3184",
+          "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_zh": null,
+          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Staatsgeheim/MathKernel",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T00:21:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.839,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T00:21:01Z",
+      "latest_at": "2026-09-07T06:05:42.885000Z",
+      "primary_item": {
+        "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
+        "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+        "title_zh": null,
+        "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+        "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49592366",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T18:42:27.361085Z"
+      }
+    },
+    {
+      "story_id": "story_fb302e7d3b11",
+      "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+      "url": "https://www.aibase.com/news/30883",
+      "primary_url": "https://www.aibase.com/news/30883",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "075e270fa2368e00db90f91a931e9a32fb1b37d2",
+          "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+          "title_zh": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+          "title_en": null,
+          "title_original": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30883",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T12:28:24.144268Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "075e270fa2368e00db90f91a931e9a32fb1b37d2",
+          "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+          "title_zh": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+          "title_en": null,
+          "title_original": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30883",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T12:28:24.144268Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.92,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T12:28:24.144268Z",
+      "latest_at": "2026-09-07T12:28:24.144268Z",
+      "primary_item": {
+        "id": "075e270fa2368e00db90f91a931e9a32fb1b37d2",
+        "title": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+        "title_zh": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+        "title_en": null,
+        "title_original": "李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30883",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T18:42:27.361085Z"
       }
     }
   ]
