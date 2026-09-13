@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T10:15:36.456264Z",
+  "generated_at": "2026-09-13T14:24:53.951664Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T10:15:36.456264Z",
-      "latest_at": "2026-09-13T10:15:36.456264Z",
+      "earliest_at": "2026-09-13T14:24:53.951664Z",
+      "latest_at": "2026-09-13T14:24:53.951664Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
+        "scored_at": "2026-09-13T14:37:21.987277Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7857,
+        "recency": 0.7399,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
+        "scored_at": "2026-09-13T14:37:21.987277Z"
       }
     },
     {
@@ -271,15 +271,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7752,
+        "recency": 0.73,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -306,7 +306,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
+        "scored_at": "2026-09-13T14:37:21.987277Z"
       }
     },
     {
@@ -354,15 +354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9394,
+        "recency": 0.8847,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -388,7 +388,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
+        "scored_at": "2026-09-13T14:37:21.987277Z"
       }
     },
     {
@@ -465,22 +465,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7739,
+        "recency": 0.7289,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T16:30:45Z",
       "latest_at": "2026-09-12T16:30:45Z",
@@ -500,7 +499,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
+        "scored_at": "2026-09-13T14:37:21.987277Z"
       }
     },
     {
@@ -577,22 +576,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8113,
+        "recency": 0.7641,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T19:46:58Z",
       "latest_at": "2026-09-12T19:46:58Z",
@@ -612,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
+        "scored_at": "2026-09-13T14:37:21.987277Z"
       }
     },
     {
@@ -660,15 +658,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7836,
-      "importance": 0.7836,
-      "importance_score": 0.7836,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8533,
+        "recency": 0.8036,
         "story_heat": 0.0
       },
       "category": "official",
@@ -694,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
+        "scored_at": "2026-09-13T14:37:21.987277Z"
       }
     },
     {
@@ -742,15 +740,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8176,
+        "recency": 0.77,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -775,7 +773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
+        "scored_at": "2026-09-13T14:37:21.987277Z"
       }
     },
     {
@@ -852,15 +850,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6284,
-      "importance": 0.6284,
-      "importance_score": 0.6284,
+      "score": 0.6199,
+      "importance": 0.6199,
+      "importance_score": 0.6199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8177,
+        "recency": 0.7701,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -885,146 +883,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
-      }
-    },
-    {
-      "story_id": "story_f5e307da9ebe",
-      "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-      "primary_url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-      "source": "tedium.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_en": null,
-          "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "tedium.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T00:29:40.068000Z"
-        },
-        {
-          "id": "c61cb98023610d60fbdf5e96b115c4dbfe7cb41a",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_en": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "title_original": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T11:13:38Z"
-        },
-        {
-          "id": "dc3a1c88b5597941096fd87acd653abc05d4967e",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The worst spam emails: iLands AI agent hustle",
-          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_en": "The worst spam emails: iLands AI agent hustle",
-          "title_original": "The worst spam emails: iLands AI agent hustle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T11:13:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "tedium.co"
-      ],
-      "items": [
-        {
-          "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_en": null,
-          "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "tedium.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T00:29:40.068000Z"
-        },
-        {
-          "id": "c61cb98023610d60fbdf5e96b115c4dbfe7cb41a",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_en": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "title_original": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T11:13:38Z"
-        },
-        {
-          "id": "dc3a1c88b5597941096fd87acd653abc05d4967e",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The worst spam emails: iLands AI agent hustle",
-          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_en": "The worst spam emails: iLands AI agent hustle",
-          "title_original": "The worst spam emails: iLands AI agent hustle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T11:13:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5471,
-      "importance": 0.5471,
-      "importance_score": 0.5471,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8685,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T11:13:38Z",
-      "latest_at": "2026-09-13T00:29:40.068000Z",
-      "primary_item": {
-        "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
-        "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-        "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-        "title_en": null,
-        "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-        "source": "tedium.co",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
+        "scored_at": "2026-09-13T14:37:21.987277Z"
       }
     },
     {
@@ -1101,15 +960,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9697,
+        "recency": 0.9132,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1134,7 +993,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
+        "scored_at": "2026-09-13T14:37:21.987277Z"
       }
     },
     {
@@ -1211,15 +1070,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.958,
+        "recency": 0.9022,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1244,7 +1103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
+        "scored_at": "2026-09-13T14:37:21.987277Z"
       }
     },
     {
@@ -1321,15 +1180,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5258,
-      "importance": 0.5258,
-      "importance_score": 0.5258,
+      "score": 0.5164,
+      "importance": 0.5164,
+      "importance_score": 0.5164,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8886,
+        "recency": 0.8369,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1354,7 +1213,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
+        "scored_at": "2026-09-13T14:37:21.987277Z"
       }
     },
     {
@@ -1431,15 +1290,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8788,
+        "recency": 0.8276,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1464,7 +1323,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
+        "scored_at": "2026-09-13T14:37:21.987277Z"
       }
     },
     {
@@ -1541,15 +1400,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.506,
-      "importance": 0.506,
-      "importance_score": 0.506,
+      "score": 0.4978,
+      "importance": 0.4978,
+      "importance_score": 0.4978,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7788,
+        "recency": 0.7334,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1571,10 +1430,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T10:26:07.009041Z"
+        "scored_at": "2026-09-13T14:37:21.987277Z"
       }
     }
   ]
